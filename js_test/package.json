@@ -1,0 +1,14 @@
+{
+  "name": "grip_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js_quiz.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Junhui Liu",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
